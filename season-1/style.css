@@ -4,3 +4,5 @@
 .brand span{letter-spacing:1px}.brand small{letter-spacing:1.6px}.completion{display:flex;flex-direction:column;align-items:flex-end;gap:5px;flex-shrink:0}.instructions strong{color:var(--ink)}@media(max-width:750px){.brand span{font-size:17px}.brand small{font-size:8px}.daytop{gap:10px}.completion{max-width:110px}}
 
 .brand span,.hero h1,.progressbox h2,.journey aside h2,#weekhead h2,.daytop h3{font-weight:700}.brand small{font-weight:500}
+
+.brand-icon{display:block;flex:0 0 30px;color:var(--green)}.button-icon{display:block;flex:0 0 20px}@media(max-width:750px){.brand-icon{width:26px;height:26px;flex-basis:26px}}
